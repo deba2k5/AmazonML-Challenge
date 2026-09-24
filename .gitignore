@@ -1,0 +1,14 @@
+# challenge data and generated files - never commit
+dataset/
+student_resource/
+*.tsv
+*.parquet
+*.zip
+cache/
+output/
+model.txt
+model_meta.json
+__MACOSX/
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
