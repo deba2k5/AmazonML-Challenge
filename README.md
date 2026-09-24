@@ -29,3 +29,10 @@ Scored by macro-averaged F0.5 per Source 1 entity.
 3. Smoke test with `TRAIN_S1=50_000`, then run with the full config via *Save Version, Save & Run All*.
 
 The dataset is not included in this repository.
+
+## Challenge material
+
+* `challenge/`: problem statement, guidelines, step-by-step guide PDF, documentation template and the official `utils/validate_submission.py`.
+* **Dataset:** the full `student_resource` zip (1.09 GB: train/test TSVs) is attached to the
+  [`dataset` release](../../releases/tag/dataset), because GitHub rejects files over 100 MB in the repo.
+  Download it and upload it to Kaggle as a private dataset.
